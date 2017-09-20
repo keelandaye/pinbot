@@ -1,0 +1,12 @@
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\KeelanBot.exe.config
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\KeelanBot.exe
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\KeelanBot.pdb
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\DSharpPlus.dll
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\DSharpPlus.xml
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\Newtonsoft.Json.xml
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\obj\Debug\KeelanBot.csprojResolveAssemblyReference.cache
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\obj\Debug\KeelanBot.exe
+c:\users\keela_gao9\documents\visual studio 2015\Projects\KeelanBot\KeelanBot\obj\Debug\KeelanBot.pdb
+C:\Users\keela_gao9\Documents\Visual Studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\DSharpPlus.CommandsNext.dll
+C:\Users\keela_gao9\Documents\Visual Studio 2015\Projects\KeelanBot\KeelanBot\bin\Debug\DSharpPlus.CommandsNext.xml
